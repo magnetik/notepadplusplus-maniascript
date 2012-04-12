@@ -3,7 +3,7 @@
         <Settings>
             <Global caseIgnored="no" />
             <TreatAsSymbol comment="no" commentLine="no" />
-            <Prefix words1="no" words2="no" words3="no" words4="yes" />
+            <Prefix words1="yes" words2="no" words3="no" words4="yes" />
         </Settings>
         <KeywordLists>
             <Keywords name="Delimiters">000000</Keywords>
@@ -11,7 +11,7 @@
             <Keywords name="Folder-">}</Keywords>
             <Keywords name="Operators">( ) : [ ] ^ { } &lt; = &gt;</Keywords>
             <Keywords name="Comment">1/* 2*/ 0//</Keywords>
-            <Keywords name="Words1">declare return if else as while foreach yield</Keywords>
+            <Keywords name="Words1">declare return if else as while foreach yield break</Keywords>
             <Keywords name="Words2">Boolean Text Integer Int3 Real Vec2 Vec3 Void Null CGameManialinkLabel CGameManialinkFrame CGameManialinkScriptEvent CGameManialinkControl CGameManialinkPage CGameManialinkScriptHandler CGameManiaTitle CGamePlayerInfo CGamePlaygroundScriptXmlRpc CGamePlaygroundScriptXmlRpcEvent CGamePlaygroundUIConfig CGamePlaygroundUIConfigMgr CGameScriptHandlerManiaPlanet CGameTeamProfile CGameWaypointSpecialProperty  CTmEditorMapTypeScriptHandler CTmRaceResultNod CTmRaceRulesEvent CTmRaceRulesPlayer CTmRaceRulesScore CTrackManiaRaceRules</Keywords>
             <Keywords name="Words3">sleep log</Keywords>
             <Keywords name="Words4">False True</Keywords>
