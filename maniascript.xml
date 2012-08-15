@@ -1,5 +1,5 @@
 <NotepadPlus>
-    <UserLang name="ManiaScript" ext=".script.txt">
+    <UserLang name="ManiaScript" ext="script.txt">
         <Settings>
             <Global caseIgnored="no" />
             <TreatAsSymbol comment="yes" commentLine="yes" />
