@@ -13,7 +13,7 @@
             <Keywords name="Comment">1/* 2*/ 0//</Keywords>
             <Keywords name="Words1">declare return if else as while foreach yield break sleep log switch case Null for || &amp;&amp;</Keywords>
             <Keywords name="Words2">CMlLabel CMlFrame CMlEvent CGameCtnBlock CGameCtnBlockInfo CMlScript CGameCtnBlockInfoClip CGameCtnBlockInfoVariantAir CGameCtnBlockInfoVariantGround CGameCtnBlockUnit CGameCtnBlockUnitInfo CGameCtnChallenge CGameCtnChallengeInfo CGameCtnEditorPluginScriptEvent CGameCtnEditorPluginScriptHandler CGameCtnEditorScriptAnchoredObject CGameCtnEditorScriptSpecialProperty CGameCtnGhost CGameCtnMacroBlockInfo CGameManialinkControl CGameManialinkPage CGameManialinkScriptHandler CGameManiaTitle CGamePlayerInfo CGamePlaygroundScriptXmlRpc CGamePlaygroundScriptXmlRpcEvent CGamePlaygroundUIConfig CGamePlaygroundUIConfigMgr CGameScriptHandlerManiaPlanet CGameTeamProfile CGameWaypointSpecialProperty CSmArenaRulesEvent CSmArenaRulesMode CSmArenaScore CSmArenaWorld CSmBase CSmBlock CSmBlockCapturable CSmBlockSpawn CSmEditorMapTypeScriptHandler CSmItem CSmPlayer CTmEditorMapTypeScriptHandler CTmRaceResultNod CTmRaceRulesEvent CTmRaceRulesPlayer CTmRaceRulesScore CTrackManiaRaceRules</Keywords>
-            <Keywords name="Words3"></Keywords>
+            <Keywords name="Words3">{  } /</Keywords>
             <Keywords name="Words4">False True Boolean Text Integer Int3 Real Vec2 Vec3 Void #Include #RequireContext</Keywords>
         </KeywordLists>
         <Styles>
@@ -22,7 +22,7 @@
             <WordsStyle name="FOLDERCLOSE" styleID="13" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" />
             <WordsStyle name="KEYWORD1" styleID="5" fgColor="0000FF" bgColor="FFFFFF" fontName="" fontStyle="1" />
             <WordsStyle name="KEYWORD2" styleID="6" fgColor="800000" bgColor="FFFFFF" fontName="" fontStyle="1" />
-            <WordsStyle name="KEYWORD3" styleID="7" fgColor="FF8040" bgColor="FFFFFF" fontName="" fontStyle="0" />
+            <WordsStyle name="KEYWORD3" styleID="7" fgColor="800080" bgColor="FFFFFF" fontName="" fontStyle="0" />
             <WordsStyle name="KEYWORD4" styleID="8" fgColor="000080" bgColor="FFFFFF" fontName="" fontStyle="3" />
             <WordsStyle name="COMMENT" styleID="1" fgColor="008000" bgColor="FFFFFF" fontName="" fontStyle="0" />
             <WordsStyle name="COMMENT LINE" styleID="2" fgColor="008000" bgColor="FFFFFF" fontName="" fontStyle="0" />
