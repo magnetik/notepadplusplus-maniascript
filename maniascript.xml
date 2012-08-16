@@ -7,13 +7,13 @@
 		</Settings>
 		<KeywordLists>
 			<Keywords name="Delimiters">&quot;00&quot;00</Keywords>
-			<Keywords name="Folder+">{ [</Keywords>
-			<Keywords name="Folder-">} ]</Keywords>
+			<Keywords name="Folder+">{</Keywords>
+			<Keywords name="Folder-">}</Keywords>
 			<Keywords name="Operators">- ! % ( ) * , . : ; [ ] ^ + &lt; = &gt;</Keywords>
 			<Keywords name="Comment">1/* 2*/ 0//</Keywords>
-			<Keywords name="Words1">declare return if else as while foreach yield break sleep log switch case for || &amp;&amp; assert in continue</Keywords>
-			<Keywords name="Words2">CMlLabel CMlFrame CMlEvent CGameCtnBlock CGameCtnBlockInfo CMlScript CGameCtnBlockInfoClip CGameCtnBlockInfoVariantAir CTmMode Version CompatibleMapTypes PendingEvents CGameCtnBlockInfoVariantGround CGameCtnBlockUnit CGameCtnBlockUnitInfo CGameCtnChallenge CGameCtnChallengeInfo CGameCtnEditorPluginScriptEvent CGameCtnEditorPluginScriptHandler CGameCtnEditorScriptAnchoredObject CGameCtnEditorScriptSpecialProperty CGameCtnGhost CGameCtnMacroBlockInfo CGameManialinkControl CGameManialinkPage CGameManialinkScriptHandler CGameManiaTitle CGamePlayerInfo CGamePlaygroundScriptXmlRpc CGamePlaygroundScriptXmlRpcEvent CGamePlaygroundUIConfig CGamePlaygroundUIConfigMgr CGameScriptHandlerManiaPlanet CGameTeamProfile CGameWaypointSpecialProperty CSmArenaRulesEvent CSmArenaRulesMode CSmArenaScore CSmArenaWorld CSmBase CSmBlock CSmBlockCapturable CSmBlockSpawn CSmEditorMapTypeScriptHandler CSmItem CSmPlayer CTmEditorMapTypeScriptHandler CTmRaceResultNod CTmRaceRulesEvent CTmRaceRulesPlayer CTmRaceRulesScore CTrackManiaRaceRules UIManager Page CurrentTime CMlQuad</Keywords>
-			<Keywords name="Words3">/</Keywords>
+			<Keywords name="Words1">#RequireContext #Include #Extends #Const #Setting main declare return if else as while foreach yield break sleep log assert switch case for || &amp;&amp;</Keywords>
+			<Keywords name="Words2">CAnchorData CBlock CBlockModel CBlockModelClip CBlockModelVariant CBlockModelVariantAir CBlockModelVariantGround CBlockUnit CBlockUnitModel CCollector CGhost CMacroblockModel CMap CMapInfo CMapType CMlControl CMlEntry CMlEvent CMlFileEntry CMlFrame CMlLabel CMlMediaPlayer CMlPage CMlQuad CMlScript CMlScriptIngame CMode CNod CPlayer CPlugin CPluginEvent CScore CSmBase CSmBlock CSmBlockPole CSmBlockSpawn CSmGauge CSmMapType CSmMlScriptIngame CSmMode CSmModeEvent CSmPlayer CSmScore CSmSector CTeam CTmMapType CTmMlPlayer CTmMlScriptIngame CTmMode CTmModeEvent CTmPlayer CTmResult CTmScore CUIConfig CUIConfigMgr CUILayer CUser CXmlRpc CXmlRpcEvent</Keywords>
+			<Keywords name="Words3">/ {{{ }}}</Keywords>
 			<Keywords name="Words4">False True Boolean Text Integer Int3 Real Vec2 Vec3 Void #Include #RequireContext #Const Null</Keywords>
 		</KeywordLists>
 		<Styles>
