@@ -1,5 +1,5 @@
 <NotepadPlus>
-	<UserLang name="ManiaScript" ext="script.txt">
+	<UserLang name="ManiaScript" ext="Script.txt">
 		<Settings>
 			<Global caseIgnored="no" />
 			<TreatAsSymbol comment="yes" commentLine="yes" />
@@ -11,10 +11,10 @@
 			<Keywords name="Folder-">}</Keywords>
 			<Keywords name="Operators">- ! % ( ) * , . : ; [ ] ^ + &lt; = &gt;</Keywords>
 			<Keywords name="Comment">1/* 2*/ 0//</Keywords>
-			<Keywords name="Words1">#RequireContext #Include #Extends #Const #Setting main declare return if else as while foreach yield break sleep log assert switch case for || &amp;&amp;</Keywords>
+			<Keywords name="Words1">#RequireContext #Include #Extends #Const #Setting main declare return if else as while foreach in yield break continue sleep wait log assert switch case default for || Now EndTime &amp;&amp;</Keywords>
 			<Keywords name="Words2">CAnchorData CBlock CBlockModel CBlockModelClip CBlockModelVariant CBlockModelVariantAir CBlockModelVariantGround CBlockUnit CBlockUnitModel CCollector CGhost CMacroblockModel CMap CMapInfo CMapType CMlControl CMlEntry CMlEvent CMlFileEntry CMlFrame CMlLabel CMlMediaPlayer CMlPage CMlQuad CMlScript CMlScriptIngame CMode CNod CPlayer CPlugin CPluginEvent CScore CSmBase CSmBlock CSmBlockPole CSmBlockSpawn CSmGauge CSmMapType CSmMlScriptIngame CSmMode CSmModeEvent CSmPlayer CSmScore CSmSector CTeam CTmMapType CTmMlPlayer CTmMlScriptIngame CTmMode CTmModeEvent CTmPlayer CTmResult CTmScore CUIConfig CUIConfigMgr CUILayer CUser CXmlRpc CXmlRpcEvent</Keywords>
 			<Keywords name="Words3">/ {{{ }}}</Keywords>
-			<Keywords name="Words4">False True Boolean Text Integer Int3 Real Vec2 Vec3 Void #Include #RequireContext #Const Null</Keywords>
+			<Keywords name="Words4">False True Boolean Text Integer Int3 Real Vec2 Vec3 Void Ident netread netwrite Null NullId</Keywords>
 		</KeywordLists>
 		<Styles>
 			<WordsStyle name="DEFAULT" styleID="11" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" />

@@ -3,7 +3,7 @@
 Simple [ManiaScript](http://wiki.maniaplanet.com/en/ManiaScript) syntax highlighter for Notepad++.
 
 ##Installation
-1.  Start notepad++.
+1.  Start Notepad++.
 2.  Go to 'View' > 'User defined language...'.
 3.  Click 'Import' and select the 'maniascript.xml' file.
 4.  Restart Notepad++
