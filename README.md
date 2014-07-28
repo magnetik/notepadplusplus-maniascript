@@ -1,4 +1,4 @@
-Notepad++ Twig Highlighter 2.1
+Notepad++ ManiaScript Highlighter 2.1
 ==============================
 
 Simple ManiaScript syntax highlighter for Notepad++ with UDL 2.1
